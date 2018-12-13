@@ -1,0 +1,20 @@
+{
+  "name": "endpoint",
+  "version": "1.0.0",
+  "description": "Desafio 2 - Empresa DITO : Manipulação de Dados por endpoint",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "fetch": "^1.1.0",
+    "file-system": "^2.2.2",
+    "mocha": "^5.2.0",
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha app.js"
+  },
+  "author": "Guilherme Augusto Rodrigues Melo",
+  "license": "ISC"
+}
